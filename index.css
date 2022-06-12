@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+td,td {align-content: center}
+
+div.jumbotron img{
+	margin: 5px;
+}
+
+img{
+	vertical-align: middle;
+}
